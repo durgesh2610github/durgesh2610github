@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**durgesh2610github/durgesh2610github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -  Hi, I’m @durgesh2610github
 -  I’m interested in web development, UI/UX design, Data analysis, Open-Source Projects, Photography and Filmmaking
